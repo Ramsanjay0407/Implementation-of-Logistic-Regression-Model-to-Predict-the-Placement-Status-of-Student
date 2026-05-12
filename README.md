@@ -9,8 +9,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Load the placement dataset and remove unnecessary columns and duplicate values.
+
 2.Convert categorical data into numerical values using Label Encoding.
+
 3.Split the dataset into training and testing sets, then train the Logistic Regression model.
+
 4.Predict the results, calculate accuracy, and display the confusion matrix and classification report.
 
 ## Program:
